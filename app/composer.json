@@ -1,0 +1,7 @@
+{
+  "description": "",
+  "name": "cccp",
+  "require": {
+    "phpmailer/phpmailer": "^6.0"
+  }
+}
